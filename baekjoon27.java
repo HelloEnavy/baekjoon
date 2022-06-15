@@ -20,7 +20,7 @@ public class baekjoon27 {
 
 
 
-
+//
 
         
         System.out.println(num);
