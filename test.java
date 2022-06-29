@@ -6,8 +6,9 @@ public class test {
         int a = sc.nextInt();
         String star = "*";
        
-        
-
+        for(int i=0 ; i<a ; i++) {
+            System.out.println(star.repeat(i+1));
+        }
 
     }
     
